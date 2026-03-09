@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+env/
+.venv/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.whl
+
+# Specific editors and tools
+.idea/  # JetBrains IDEs (e.g., PyCharm)
+.vscode/ # VS Code
+*.swp   # Vim swap files
+.DS_Store # macOS files
+Thumbs.db # Windows files
