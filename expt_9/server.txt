@@ -1,0 +1,5 @@
+Server Node Information
+
+Server ID: S201
+Server Name: Distributed File Server
+Service Type: File Storage and Retrieval

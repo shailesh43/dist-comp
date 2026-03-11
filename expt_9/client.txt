@@ -1,0 +1,5 @@
+Client Node Information
+
+Client ID: C101
+Client Name: User Application
+Request Type: File Read
